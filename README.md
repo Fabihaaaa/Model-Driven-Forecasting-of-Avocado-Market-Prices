@@ -5,7 +5,7 @@ Objective: Predicting the average price of avocado fruit
 Data Description:
 The dataset contains 18249 observations of 14 columns 
 
-Required libraries
+Required libraries:
 
 1) pandas
 2) matplotlib
